@@ -123,7 +123,7 @@ Default value: `192`
 
 The path to an image file used to represent the Oneko, as a string.
 
-Default value: `"https://raw.githubusercontent.com/raynecloudy/oneko_db/refs/heads/master/default.png"`
+Default value: `"https://raw.githubusercontent.com/raynepaws/oneko_db/refs/heads/master/default.png"`
 
 #### `speed: number`
 > since: 1.0.0
@@ -308,7 +308,7 @@ Sets the coordinates for the Oneko element to be positioned at.
 #### `setSourceDB(sourceName: OnekoDatabaseSource): Oneko`
 > since: 2.1.0
 
-Sets the source image of the Oneko element to a URL accessing the source database of Oneko PNGs (https://github.com/raynecloudy/oneko_db/).
+Sets the source image of the Oneko element to a URL accessing the source database of Oneko PNGs (https://github.com/raynepaws/oneko_db/).
 
 #### `setSprite(name: string, frame: number): Oneko`
 > since: 2.3.0

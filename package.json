@@ -1,14 +1,14 @@
 {
   "name": "lots-o-nekos",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "cat follow mouse real! now an npm package with additionyal features for an elevated oneko experience ≽^•⩊•^≼",
-  "homepage": "https://github.com/raynecloudy/lots-o-nekos#readme",
+  "homepage": "https://github.com/raynepaws/lots-o-nekos#readme",
   "bugs": {
-    "url": "https://github.com/raynecloudy/lots-o-nekos/issues"
+    "url": "https://github.com/raynepaws/lots-o-nekos/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raynecloudy/lots-o-nekos.git"
+    "url": "git+https://github.com/raynepaws/lots-o-nekos.git"
   },
   "license": "MIT",
   "author": "raynec",
